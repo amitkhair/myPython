@@ -3,7 +3,7 @@
 - Class 1 First session iceBreaker : all possibilities available for learning on net websites etc discussed. 
 - Class 2 HDMI working, Github discussion and initial commits , PRs , removed older version installed Anaconda python. 
 - Class 3 char vars strings number loops datatype  casting oops basics  What are your questions ? 
-- Class 4 
+- Class 4 amit
 
 - Class 5 
 - Class 6 
