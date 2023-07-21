@@ -1,7 +1,27 @@
 Hw. AMIT
 Que 1. what is the diff. btw flash memory used in pendrive vs solid state drive(ssd) ?
+Ans= Even though both flash storage and SSD use non volatile memory, their storage capacity are on two different playing fields. For reference, SSD storage 
+options start as small as 64MB and only store up to 1TB of data.
+
 Que 2. How much contents is created on internet on 2023 in everyday ?
+Ans= According to the laatest estimates, 328.77 million terabytes of data are created each day. ( "created" includes data that is newly generated,
+captured, copied , or consumed). In zettabytes, that equates tob 120 zettabyte per year, 10 zettabytes per month, 2.31 zettabytes per week,
+or 0.33 zettabytes everyday.
+
 Que 3. what other battery are available in a part from lithium ion batteries ?
+Ans= 1. Magnesium
+2. Glass batteries.
+3. Fuel cells.
+4. Liquid batteries.
+
 Que 4. Write about single user , real time os, multiprocessor os, distrubted os ?
+Ans= single user 
+Advantage= this operating system occupies less space in memory.
+Disadvantage= It can perform only a single tak at a time.
+Real Time OS:- It is designed to run real time applications. It can be both single and multi tasking .
+
 que 6. diff btw compiler and interprueter ?
+Ans= A compiler takes a program as a whole. An interpreter takes a single lines of a code.
+
 que 7 . what are software library useful to programmer ?
+Ans= 
